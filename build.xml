@@ -25,6 +25,10 @@
   <property file="build.properties"/>
   <property file="${user.home}/wpilib/java/${version}/ant/build.properties"/>
   
+<<<<<<< HEAD
   <import file="./wpilib/java/current/ant/build.xml"/>
+=======
+  <import file="${wpilib.ant.dir}/build.xml"/>
+>>>>>>> 82c906791bb4986d21a6a741aae7f36f14cea45e
 
 </project> 

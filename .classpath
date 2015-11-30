@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry excluding="UnitTests/" kind="src" path="src"/>
@@ -11,4 +12,12 @@
 	<classpathentry kind="lib" path="lib/hamcrest-core-1.3.jar"/>
 	<classpathentry kind="lib" path="lib/junit-4.12.jar"/>
 	<classpathentry kind="output" path="bin"/>
+=======
+<classpath>
+  <classpathentry kind="src" path="src"/>
+  <classpathentry kind="var" path="wpilib" sourcepath="wpilib.sources"/>
+  <classpathentry kind="var" path="networktables" sourcepath="networktables.sources"/>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+  <classpathentry kind="output" path="bin"/>
+>>>>>>> 82c906791bb4986d21a6a741aae7f36f14cea45e
 </classpath>
